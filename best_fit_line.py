@@ -1,5 +1,6 @@
 from pulp import *
 
+# minor changes
 ### remove variable b because it is unconstrained
 ### it's just a linear combination of the others
 ### you can get the result:
